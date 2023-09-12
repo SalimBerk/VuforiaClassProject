@@ -23,6 +23,9 @@
 
 
 
-![Screen Shot 19 02 2023 at 12 53](https://user-images.githubusercontent.com/77536512/221439235-6eae6cb8-4471-4efa-9eb8-f52f2e08c2a5.png)
+![WhatsApp Görsel 2023-06-19 saat 10 09 43](https://github.com/SalimBerk/VuforiaClassProject/assets/77536512/5c514751-8d86-41f7-b0df-bc4613b2e2d7)
+
+
+
 
 
